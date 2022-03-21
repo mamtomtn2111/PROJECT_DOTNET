@@ -1,0 +1,10 @@
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\DAL_DuAn\obj\Debug\DAL_DuAn.csproj.AssemblyReference.cache
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\DAL_DuAn\obj\Debug\DAL_DuAn.csproj.CoreCompileInputs.cache
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\DAL_DuAn\bin\Debug\DAL_DuAn.dll
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\DAL_DuAn\bin\Debug\DAL_DuAn.pdb
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\DAL_DuAn\obj\Debug\DAL_DuAn.dll
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\DAL_DuAn\obj\Debug\DAL_DuAn.pdb
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\DAL_DuAn\bin\Debug\System.Data.SqlClient.dll
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\DAL_DuAn\bin\Debug\System.Data.SqlClient.xml
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\DAL_DuAn\bin\Debug\DTO_DuAn.dll
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\DAL_DuAn\bin\Debug\DTO_DuAn.pdb

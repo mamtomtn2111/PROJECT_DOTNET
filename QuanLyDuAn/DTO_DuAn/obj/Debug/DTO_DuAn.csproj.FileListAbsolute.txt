@@ -1,0 +1,6 @@
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\DTO_DuAn\bin\Debug\DTO_DuAn.dll
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\DTO_DuAn\bin\Debug\DTO_DuAn.pdb
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\DTO_DuAn\obj\Debug\DTO_DuAn.csproj.AssemblyReference.cache
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\DTO_DuAn\obj\Debug\DTO_DuAn.csproj.CoreCompileInputs.cache
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\DTO_DuAn\obj\Debug\DTO_DuAn.dll
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\DTO_DuAn\obj\Debug\DTO_DuAn.pdb

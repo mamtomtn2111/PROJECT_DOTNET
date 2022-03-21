@@ -1,0 +1,11 @@
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\BUS_DuAn\obj\Debug\BUS_DuAn.csproj.AssemblyReference.cache
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\BUS_DuAn\obj\Debug\BUS_DuAn.csproj.CoreCompileInputs.cache
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\BUS_DuAn\bin\Debug\BUS_DuAn.dll
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\BUS_DuAn\bin\Debug\BUS_DuAn.pdb
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\BUS_DuAn\bin\Debug\DAL_DuAn.dll
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\BUS_DuAn\bin\Debug\DTO_DuAn.dll
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\BUS_DuAn\bin\Debug\DAL_DuAn.pdb
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\BUS_DuAn\bin\Debug\DTO_DuAn.pdb
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\BUS_DuAn\obj\Debug\BUS_DuAn.dll
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\BUS_DuAn\obj\Debug\BUS_DuAn.pdb
+D:\SAVE CODE\c#\BaiTapLon\QuanLyDuAn\BUS_DuAn\obj\Debug\BUS_DuAn.csproj.CopyComplete
